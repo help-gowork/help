@@ -24,9 +24,9 @@ El formulario contiene los siguientes campos:
 
 **Resgistrar como**: GoWork identifica tres tipos de perfil:
 
- * `Empresa <../perfil/empresa>`_.
- * `Persona <../perfil/persona>`_.
- * `Universidad <../perfil/universidad>`_.
+ * `Empresa`_.
+ * `Persona`_.
+ * `Universidad`_.
   
 
 .. note:: 	¡Analiza el siginifcado de cada tipo de perfil y selecciona aquel que mejor se ajusta a tus necesidades!
