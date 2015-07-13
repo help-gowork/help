@@ -1,5 +1,5 @@
 .. _GoWork: http://gowork.es
-.. _Registrarse: http://gowork.es/site/login
+.. _Registrarse: http://gowork.es/site/signup
 
 
 Registarse en GoWork
