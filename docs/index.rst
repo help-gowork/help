@@ -18,15 +18,15 @@ Ingresar
 .. 	toctree::
 	:maxdepth: 2
 
-	quickstart
+	ingresar
 	
-Mi perfil
+Perfil
 --------
 
 .. 	toctree::
 	:maxdepth: 2
 
-	features
+	perfil
 
 Módulos
 -------
@@ -34,7 +34,7 @@ Módulos
 .. 	toctree::
 	:maxdepth: 2
 	
-	plugins
+	modulos
 	
 FAQs
 ----
@@ -43,3 +43,11 @@ FAQs
 	:maxdepth: 2
 	
 	frequently-asked-questions
+	
+Términos
+----
+
+.. 	toctree::
+	:maxdepth: 2
+	
+	terminos
