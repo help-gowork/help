@@ -1,6 +1,6 @@
 Centro de ayuda de GoWork
 =================================
-Bienvenido al centro de ayuda de la red de talento GoWork en donde podrá dar respuesta a cualquier duda en el uso de las posibilidades que ofrece la plataforma o buscar recomendaciones para sacar el máximo probecho a tu perfil como usuario de GoWork
+Bienvenido al centro de ayuda de la red de talento GoWork en donde podrá dar respuesta a cualquier duda en el uso de las posibilidades que ofrece la plataforma `GoWork <http://gowork.es>` o buscar recomendaciones para sacar el máximo provecho a tu perfil como usuario de `GoWork <http://gowork.es>`
 
 Registarse
 ----------------
@@ -8,7 +8,7 @@ Registarse
 .. 	toctree::
 	:maxdepth: 2
 
-	product-overview
+	registarse
 
 Ingresar
 -----------
