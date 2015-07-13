@@ -12,7 +12,7 @@ Registrar tu perfil en `GoWork`_ es muy sencillo y rápido, sólo has de seguir 
 Puls sobre el menú `Registrarse`_ que podrás ver en la parte superior derecha 
 de `GoWork`_
 
-2) Rellenar formulario
+2) Rellena el formulario
 ----------------------
 El formulario contiene los siguientes campos:
 
