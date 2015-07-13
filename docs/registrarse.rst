@@ -32,4 +32,4 @@ El formulario contiene los siguientes campos:
 
 **Nombre completo**: Será el nombre completo del usuario, por ejemplo Nombre Apellido o Normbre de la empresa, etc.
 
-.. note:: 	Por defecto este nombre será el utilizado para referenciar su perfil de forma que si se registra como una persona de nombre "Antonio Martin", la dirección de su perfil sería http://gowork.es/perfil/persona/Antonio-Martin
+.. note:: 	Por defecto este nombre será el utilizado para referenciar su perfil de forma que si se registra como una persona de nombre "David Nieto", la dirección de su perfil sería http://gowork.es/perfil/persona/David-Nieto. La dirección de su perfil siempre la podrá modificar desde su panel de control.
