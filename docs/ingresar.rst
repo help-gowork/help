@@ -16,7 +16,7 @@ Los datos que debe utilizar para ingresar son:
  * Email o nombre de usuario.
  * Contraseña
 
-¿Aún no tiene su cuenta de `GoWork`_?, pulse ahora en **`Registarse`_ y disfrute de las inmuverables ventajas que le ofrece `GoWork`_
+¿Aún no tiene su cuenta de `GoWork`_?, pulse ahora en `Registarse`_ y disfrute de las inmuverables ventajas que le ofrece `GoWork`_
 
 
 Recuperar contraseña
