@@ -1,34 +1,41 @@
+.. _GoWork: http://gowork.es
+.. _Registrarse: http://gowork.es/site/login
+
+
 Registarse en GoWork
 ====================
 
-Registrar tu perfil en `GoWork <http://gowork.es>`_. es muy sencillo y rápido, sólo has de seguir los siguientes pasos:
+Registrar tu perfil en `GoWork`_ es muy sencillo y rápido, sólo has de seguir los siguientes pasos:
 
 1) Accede
 ----------
-Puls sobre el menú `Registrarse <http://gowork.es/site/login>`_. que podrás ver en la parte superior derecha 
-de `GoWork <http://gowork.es>`_.
+Puls sobre el menú `Registrarse`_ que podrás ver en la parte superior derecha 
+de `GoWork`_
 
 2) Rellenar formulario
 ----------------------
 
-2) Usuario
-----------
+**Usuario**
+
 Escribe tu nombre de usuario o nick. Este nombre será privado.
 
 
-3) Email
+**Email**
 --------
 Debes indicar tu mail de contacto.
 
-4) Contraseña
+**Contraseña**
 -------------
 Escribe una contraseña segura y fácil de recordar. A continuación deberás de confirmar la misma contraseña.
 
-5) Resgistrar como:
+**Resgistrar como**
 -------------------
 GoWork identifica tres tipos de perfil:
- * :doc:`perfil\empresa`
- * :doc:`perfil\persona`
- * :doc:`perfil\universidad`
+.. 	toctree::
+	:maxdepth: 2
+ perfil/empresa
+ perfil/persona
+ perfil/universidad
+ 
 
 .. note:: 	¡Analiza el siginifcado de cada tipo de perfil y selecciona aquel que mejor se ajusta a tus necesidades!
