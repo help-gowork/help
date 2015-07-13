@@ -8,7 +8,7 @@ Registarse
 .. 	toctree::
 	:maxdepth: 2
 
-	registarse
+	registrarse
 
 Ingresar
 -----------
