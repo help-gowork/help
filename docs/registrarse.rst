@@ -8,6 +8,8 @@ Registrar tu perfil en `GoWork <http://gowork.es>`_. es muy sencillo y rápido, 
 Puls sobre el menú `Registrarse <http://gowork.es/site/login>`_. que podrás ver en la parte superior derecha 
 de `GoWork <http://gowork.es>`_.
 
+2) Rellenar formulario
+----------------------
 
 2) Usuario
 ----------
