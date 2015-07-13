@@ -12,6 +12,7 @@ En `GoWork`_ le reciberemos siempre con una cálidad bienvenida. Para ello sólo
 Datos de ingreso
 ----------------
 Los datos que debe utilizar para ingresar son:
+ 
  * Email o nombre de usuario.
  * Contraseña
 
