@@ -23,9 +23,10 @@ El formulario contiene los siguientes campos:
 **Contraseña**: Escribe una contraseña segura y fácil de recordar. A continuación deberás de confirmar la misma contraseña.
 
 **Resgistrar como**: GoWork identifica tres tipos de perfil:
- * perfil/empresa
- * perfil/persona
- * perfil/universidad
- 
+
+ * `Empresa <../perfil/empresa>`_.
+ * `Persona <../perfil/persona>`_.
+ * `Universidad <../perfil/universidad>`_.
+  
 
 .. note:: 	¡Analiza el siginifcado de cada tipo de perfil y selecciona aquel que mejor se ajusta a tus necesidades!
