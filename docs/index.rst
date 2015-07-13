@@ -20,13 +20,13 @@ Ingresar
 
 	ingresar
 	
-Perfil
+Perfil usuario
 --------
 
 .. 	toctree::
 	:maxdepth: 2
 
-	perfil
+	perfil-usuario
 
 Módulos
 -------
