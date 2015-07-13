@@ -27,6 +27,9 @@ El formulario contiene los siguientes campos:
  * :term:`Empresa`.
  * :term:`Persona`.
  * :term:`Universidad`.
-  
 
 .. note:: 	¡Analiza el siginifcado de cada tipo de perfil y selecciona aquel que mejor se ajusta a tus necesidades!
+
+**Nombre completo**: Será el nombre completo del usuario, por ejemplo Nombre Apellido o Normbre de la empresa, etc.
+
+.. note:: 	Por defecto este nombre será el utilizado para referenciar su perfil de forma que si se registra como una persona de nombre "Antonio Martin", la dirección de su perfil sería http://gowork.es/perfil/persona/Antonio-Martin
