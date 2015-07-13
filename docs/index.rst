@@ -50,4 +50,4 @@ Términos
 .. 	toctree::
 	:maxdepth: 2
 	
-	terminos
+	glossary
