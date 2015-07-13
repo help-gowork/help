@@ -14,28 +14,18 @@ de `GoWork`_
 
 2) Rellenar formulario
 ----------------------
+El formulario contiene los siguientes campos:
 
-**Usuario**
+**Usuario**: Escribe tu nombre de usuario o nick. Este nombre será privado.
 
-Escribe tu nombre de usuario o nick. Este nombre será privado.
+**Email**: Debes indicar tu mail de contacto.
 
+**Contraseña**: Escribe una contraseña segura y fácil de recordar. A continuación deberás de confirmar la misma contraseña.
 
-**Email**
---------
-Debes indicar tu mail de contacto.
-
-**Contraseña**
--------------
-Escribe una contraseña segura y fácil de recordar. A continuación deberás de confirmar la misma contraseña.
-
-**Resgistrar como**
--------------------
-GoWork identifica tres tipos de perfil:
-.. 	toctree::
-	:maxdepth: 2
- perfil/empresa
- perfil/persona
- perfil/universidad
+**Resgistrar como**: GoWork identifica tres tipos de perfil:
+ * perfil/empresa
+ * perfil/persona
+ * perfil/universidad
  
 
 .. note:: 	¡Analiza el siginifcado de cada tipo de perfil y selecciona aquel que mejor se ajusta a tus necesidades!
