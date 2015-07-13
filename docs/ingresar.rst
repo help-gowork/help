@@ -11,7 +11,6 @@ En `GoWork`_ le reciberemos siempre con una cálidad bienvenida. Para ello sólo
 
 Datos de ingreso
 ----------------
-
 Los datos que debe utilizar para ingresar son:
  * Email o nombre de usuario.
  * Contraseña
@@ -21,7 +20,6 @@ Los datos que debe utilizar para ingresar son:
 
 Recuperar contraseña
 --------------------
-
 **O_o?** ¿No recuerdas tu contraseña o nombre de usuario?
 
 No pasa nada, `GoWork`_ te permite recuperar tu contraseña y nombre de usuario de forma sencilla pulsando en `Recuperar aquí`_ que aparece en la parte inferior de la sección de `ingreso <http://gowork.es/site/login>`_.
