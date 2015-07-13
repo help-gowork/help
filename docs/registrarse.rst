@@ -13,7 +13,7 @@ Puls sobre el menú `Registrarse`_ que podrás ver en la parte superior derecha
 de `GoWork`_
 
 2) Rellena el formulario
-----------------------
+------------------------
 El formulario contiene los siguientes campos:
 
 **Usuario**: Escribe tu nombre de usuario o nick. Este nombre será privado.
