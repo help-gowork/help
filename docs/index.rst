@@ -1,9 +1,8 @@
-Welcome to Email Verification API
+Centro de ayuda de GoWork
 =================================
-Our email verification :term:`API` will help your business reduce costs by eliminating bad email 
-addresses from entering your information systems.
+Bienvenido al centro de ayuda de la red de talento GoWork en donde podrá dar respuesta a cualquier duda en el uso de las posibilidades que ofrece la plataforma o buscar recomendaciones para sacar el máximo probecho a tu perfil como usuario de GoWork
 
-Product Overview
+Registarse
 ----------------
 
 .. 	toctree::
@@ -11,7 +10,7 @@ Product Overview
 
 	product-overview
 
-Quick Start
+Ingresar
 -----------
 
 .. 	toctree::
@@ -19,7 +18,7 @@ Quick Start
 
 	quickstart
 	
-Features
+Mi perfil
 --------
 
 .. 	toctree::
