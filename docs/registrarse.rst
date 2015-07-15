@@ -32,4 +32,7 @@ El formulario contiene los siguientes campos:
 
 **Nombre completo**: Será el nombre completo del usuario, por ejemplo Nombre Apellido o Normbre de la empresa, etc.
 
+.. tip:: 	Automáticamente, se enviará un mail de **bienvenida** a tu email 
+            para recordarte la contraseña utilizada. Revisa la sección de SPAM si no lo encuentras en tu bandeja de entrada principal.
+
 .. note:: 	Por defecto este nombre será el utilizado para referenciar su perfil de forma que si se registra como una persona de nombre "David Nieto", la dirección de su perfil sería http://gowork.es/perfil/persona/David-Nieto. La dirección de su perfil siempre la podrá modificar desde su panel de control.
