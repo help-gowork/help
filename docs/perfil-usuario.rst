@@ -14,8 +14,6 @@ Una vez que ingreses encontrarás la siguiente imagen:
     :align: center
     :alt: panel usuario registrado en gowork
 
-..imagen panel-user-registered
-
 Desde donde podrás acceder a:
 
  * Editar acceso
