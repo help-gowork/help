@@ -57,18 +57,29 @@ Editar perfil
 En esta sección puedes incluir la información más relevante que quires mostrar de forma
 pública en tu pefil de `GoWork`_
 
-Podrás definir 
+De forma general, a cualquier tipo de usuario, puedes:
+ * **Cargar imagen** de tu pefil.
+ * Definir tu **nombre completo** de perfil.
+ * Indicar una **descripción corta** a modo de eslogan, propuesta de valor, etc.
+ * Indicar una **descripción larga** mediante un potente editor de texto interactivo y amigable. a modo de carta de presentación, presentación de productos o servicios, etc.
+ * **Agregar vídeo** mediante la carga de un archivo MP4 o indicando la ::term::`URL` del vídeo subido a las plataformas de youtube o vimeo.
+ * **Agragar enlaces sociales** de cualquier tipo. El sistema detecta automáticamente el tipo de red (facebook, twitter, linkedin, blog, etc.) al que hace referencia
+ 
+ .. note:: 	La ::term::`URL' que quieran agregar deberá comenzar por http:// o https://
+			según sea el caso. Sin esta descripción el sistema no detectará correctamente la ::term::`URL`
+ 
 
+
+
+... como Persona
+^^^^^^^^^^^^^^^^
 , así como subir tu currículum vitae en formato Word (.doc o .docx) o PDF
 
-Persona
-^^^^^^^
+... como Empresa
+^^^^^^^^^^^^^^^^
 
-Empresa
-^^^^^^^
-
-Universidad
-^^^^^^^^^^^
+... como Universidad
+^^^^^^^^^^^^^^^^^^^^
 
 Administrador de etiquetas
 --------------------------
