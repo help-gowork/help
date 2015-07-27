@@ -4,6 +4,10 @@ Términos
 ..	glossary::
 	:sorted:
 
+	URL
+		Corresponde a la dirección web que aparece en la barra de navegación de cualquier 
+		navegador de Internet.
+	
 	Empresa
 		El perfil de **empresa** es todo aquel usuario que genere en la actualidad, o pueda generar en un
 		futuro, o negocio o trabajo. Este concepto reúne: sociedades mercantiles de cualquier envergadura
