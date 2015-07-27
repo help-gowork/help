@@ -1,7 +1,5 @@
 .. _GoWork: http://gowork.es
 .. _Mi perfil: http://gowork.es/site/profile
-.. _editor de texto: http://gowork.es/site/profile
-.. _Empresa: http://helpgowork.readthedocs.org/es/latest/glossary/#term-empresa
 
 
 Perfil de usuario
@@ -54,8 +52,8 @@ Tambien puedes **Eliminar mi usuario**, en este caso se eliminará **sin confirm
 
 Para regresar a tu perfil sólo tienes que puslar sobre `Mi perfil`_. 
 			
-Editar perfil (como ::term::`Persona`_)
----------------------------------------
+Editar perfil
+-------------
 En esta sección puedes incluir la información más relevante que quires mostrar de forma
 pública en tu pefil de `GoWork`_
 
@@ -63,11 +61,14 @@ Podrás definir
 
 , así como subir tu currículum vitae en formato Word (.doc o .docx) o PDF
 
-Editar perfil (como `Empresa`_)
----------------------------------------
+Persona
+^^^^^^^
 
-Editar perfil (como ::term::`Universidad`_)
--------------------------------------------
+Empresa
+^^^^^^^
+
+Universidad
+^^^^^^^^^^^
 
 Administrador de etiquetas
 --------------------------
@@ -83,5 +84,5 @@ Ver perfil
  
  Para regresar a las opciones de mi perfil debo pulsar sobre el menú `Mi peril`_ que aparece en la parte superior derecha.
  
-Ayuda `editor de texto`_
-------------------------
+Ayuda editor de texto
+---------------------
