@@ -1,6 +1,8 @@
 .. _GoWork: http://gowork.es
 .. _Mi perfil: http://gowork.es/site/profile
 .. _editor de texto: http://gowork.es/site/profile
+.. _Empresa: http://helpgowork.readthedocs.org/es/latest/glossary/#term-empresa
+
 
 Perfil de usuario
 =================
@@ -61,7 +63,7 @@ Podrás definir
 
 , así como subir tu currículum vitae en formato Word (.doc o .docx) o PDF
 
-Editar perfil (como ::term::`Empresa`_)
+Editar perfil (como `Empresa`_)
 ---------------------------------------
 
 Editar perfil (como ::term::`Universidad`_)
