@@ -1,5 +1,6 @@
 .. _GoWork: http://gowork.es
 .. _Mi perfil: http://gowork.es/site/profile
+.. _PrimoPDF: http://www.primopdf.com/es/
 
 
 Perfil de usuario
@@ -68,12 +69,23 @@ De forma general, a cualquier tipo de usuario, puedes:
  .. note:: 	La ::term::`URL' que quieran agregar deberá comenzar por http:// o https://
 			según sea el caso. Sin esta descripción el sistema no detectará correctamente la ::term::`URL`
  
+Una vez que incluyes tu información más relevante la puedes actualizar en tu perfil pulsando el botón inferior **Actualizar informción**.
 
+Si no quieres guardar los cambios pusla en en botón inferior **Regresar a mi perfil**.
 
 
 ... como Persona
 ^^^^^^^^^^^^^^^^
-, así como subir tu currículum vitae en formato Word (.doc o .docx) o PDF
+Como usuario ::term::`Persona` en tu pefil exite un campo que no tienen el resto de usuarios.
+
+En tu perfil puedes cargar, actualizar o eliminar tu currículum simplemente cargando el archivo en formato word (.doc o .docx) o PDF.
+
+ .. note:: 	Recomendamos que tu currículum esté en formato PDF ya que al ser un formato
+			reconocido internacionalmente evitarás poblemas a la hora de su lectura por cualquier navegador o lector.
+			
+.. tip:: 	Si no tienes ningún programa para generar el archivo puedes utilizar la versión
+			gratuita de `PrimoPDF`_.
+			
 
 ... como Empresa
 ^^^^^^^^^^^^^^^^
