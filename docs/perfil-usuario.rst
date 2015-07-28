@@ -58,19 +58,19 @@ Editar perfil
 En esta sección puedes incluir la información más relevante que quires mostrar de forma pública en tu pefil de `GoWork`_
 
 De forma general cualquier tipo de usuario puede:
- * **Cargar imagen** de tu pefil.
-	.. image:: img/name.png
+ * Cargar imagen de tu pefil.
+	.. image:: img/upload-image.png
 		:align: center
 		:alt: Carga una imagen de perfil
- * Definir tu **nombre completo** de perfil.
+ * Definir tu nombre completo de perfil.
 	.. image:: img/name.png
 		:align: center
 		:alt: Define tu nombre completo
- * Indicar una **descripción corta**.
-	.. image:: img/name.png
+ * Indicar una descripción corta.
+	.. image:: img/short-name.png
 		:align: center
 		:alt: Define la descripción corta
- * Indicar una **descripción larga** mediante un potente editor de texto.
+ * Indicar una descripción larga mediante un potente editor de texto.
 	.. image:: img/long-description.png
 		:align: center
 		:alt: Descripción larga del perfil
@@ -98,7 +98,7 @@ Persona
 **Cargar imagen**
 """""""""""""""""
 
-.. image:: img/name.png
+.. image:: img/upload-image.png
     :align: center
     :alt: Carga una imagen de perfil
 
@@ -134,7 +134,7 @@ En esta casilla puedes indicar tu nombre y apellidos o el nombre por el cual qui
 **Descripción corta**
 """""""""""""""""""""
 
-.. image:: img/name.png
+.. image:: img/short-description.png
     :align: center
     :alt: Define la descripción corta
 
