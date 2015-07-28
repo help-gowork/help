@@ -59,11 +59,11 @@ En esta sección puedes incluir la información más relevante que quires mostra
 pública en tu pefil de `GoWork`_
 
 De forma general cualquier tipo de usuario puede:
- * **::ref::`Cargar imagen`** de tu pefil.
+ * **:ref:`Cargar imagen`** de tu pefil.
  * Definir tu **nombre completo** de perfil.
  * Indicar una **descripción corta**.
  * Indicar una **descripción larga** mediante un potente editor de texto.
- * **Agregar vídeo** mediante la carga de un archivo MP4 o la ::term::`URL` de un vídeo subido a las plataformas de youtube o vimeo.
+ * **Agregar vídeo** mediante la carga de un archivo MP4 o la :term:`URL` de un vídeo subido a las plataformas de youtube o vimeo.
  * **Agragar enlaces sociales** de cualquier tipo. El sistema detecta automáticamente el tipo de red (facebook, twitter, linkedin, blog, etc.) al que hace referencia
  
  .. note:: 	La URL que quieran agregar deberá comenzar por **http://** o **https://**
@@ -118,7 +118,7 @@ En esta casilla puedes indicar tu nombre y apellidos o el nombre por el cual qui
 
 	
 
-Como usuario ::term::`Persona` en tu pefil exite un campo que no tienen el resto de usuarios.
+Como usuario :term:`Persona` en tu pefil exite un campo que no tienen el resto de usuarios.
 
 En tu perfil puedes cargar, actualizar o eliminar tu currículum simplemente cargando el archivo en formato word (.doc o .docx) o PDF.
 
