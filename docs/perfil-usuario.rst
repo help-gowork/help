@@ -59,7 +59,7 @@ En esta sección puedes incluir la información más relevante que quires mostra
 pública en tu pefil de `GoWork`_
 
 De forma general cualquier tipo de usuario puede:
- * ** :ref:`Cargar imagen` ** de tu pefil.
+ * **Cargar imagen** de tu pefil.
  * Definir tu **nombre completo** de perfil.
  * Indicar una **descripción corta**.
  * Indicar una **descripción larga** mediante un potente editor de texto.
@@ -77,9 +77,9 @@ A continuación se explica el detalle de cada información y aspectos exclusivos
 
 ... como Persona
 ^^^^^^^^^^^^^^^^
-.. _Cargar imagen:
 
-**Cargar imagen**
+Cargar imagen
+"""""""""""""
 
 .. image:: img/name.png
     :align: center
