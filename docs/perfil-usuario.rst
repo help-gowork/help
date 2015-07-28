@@ -94,21 +94,20 @@ Lo que nunca debes hacer en tu foto de perfil:
   * Colocar una foto de mala calidad (pixelada, borrosa, etc.)
   * Colocar una foto de caricatura (¿estas de broma?)
 
-Te facilitamos 8 trucos para que tengas una foto de perfil profesional
-
- * 
-    Se original. La originalidad vende, marca tu diferencia, te hace original y reconocible. Usa formatos de imagen o complementos en la fotografía que la hagan única.
-    Si te define una afición o tu profesión busca el modo de integrarlo en tu fotografía como complementos, escenarios, atuendos, etc.
-    Escoge un buen día para hacerte las fotos, tómate tu tiempo, no hagas las fotos con prisa. La tensión emocional se refleja en la cara, en la rigidez muscular de nuestras facciones.
-    La base de un buen retrato es un 90% de psicología y un 10% de fotografía de modo que tómatelo con calma, relájate y déjate llevar por tu fotógrafo profesional Sólo él sabe cómo contactar con tu “mejor yo” y hacerlo salir a la superficie.
-    La mayoría de las fotos de perfil en las redes sociales miran a la izquierda ¿te habías fijado? No es casualidad. Empezamos a leer por la izquierda, nuestra mirada se topa con la foto entrando por los ojos. Si tu rostro mira a la derecha, la mirada del observador se encuentra con tu nuca y no con tus ojos, le das la espalda al observador y no la bienvenida.
-    Mira a los ojos a tu visitante. Una mirada clara y penetrante comunica sensaciones positivas, una mirada fuera del encuadre de la foto puede ser interpretado como timidez o una actitud altiva dependiendo del resto de la foto. Tampoco puedes hacerte fotos con gafas de sol puestas.
-    La ropa es muy importante. En algunos casos las fotos de perfil son muy pequeñas, como en Twitter, pero igual necesitas una foto para tu Web, Blog o para el perfil de Linkedin que tiene una foto más grande. Tu ropa habla por ti de tus gustos, modo de expresarte y comunicarte, de tus aficiones etc. Por cierto, tampoco puedes hacerte fotos con las gafas sobre la cabeza, queda muy mal.
-    Cuida tu lenguaje corporal (en el enlace tienes más información detallada). No es indiferente que cruces los brazos de un modo u otro, las manos en los bolsillos o incluso el tipo de mueca o semblante en tu cara. Todo comunica y dice de ti. Un truco si cruzas los brazos: haz que se vean las dos manos como en la foto de Fátima. Una foto con una mano de menos no es una buena foto.
-
-	
+Te facilitamos 8 trucos para que tengas una foto de perfil profesional (Fuente: `Vicente Nadal <https://opinionesopinables.wordpress.com/2013/10/02/trucos-para-tener-una-buena-foto-de-perfil/>_)
+ 
+ # **Se original**. La originalidad vende, marca tu diferencia, te hace original y reconocible. Usa formatos de imagen o complementos en la fotografía que la hagan única.
+ # Si te define una afición o tu profesión busca el modo de integrarlo en tu fotografía como complementos, escenarios, atuendos, etc.
+ # Escoge un buen día para hacerte las fotos, tómate tu tiempo, no hagas las fotos con prisa. La tensión emocional se refleja en la cara, en la rigidez muscular de nuestras facciones.
+ # La base de un buen retrato es un 90% de psicología y un 10% de fotografía de modo que tómatelo con calma, relájate y déjate llevar por tu fotógrafo profesional Sólo él sabe cómo contactar con tu “mejor yo” y hacerlo salir a la superficie.
+ # La mayoría de las fotos de perfil en las redes sociales miran a la izquierda ¿te habías fijado? No es casualidad. Empezamos a leer por la izquierda, nuestra mirada se topa con la foto entrando por los ojos. Si tu rostro mira a la derecha, la mirada del observador se encuentra con tu nuca y no con tus ojos, le das la espalda al observador y no la bienvenida.
+ # Mira a los ojos a tu visitante. Una mirada clara y penetrante comunica sensaciones positivas, una mirada fuera del encuadre de la foto puede ser interpretado como timidez o una actitud altiva dependiendo del resto de la foto. Tampoco puedes hacerte fotos con gafas de sol puestas.
+ # La ropa es muy importante. En algunos casos las fotos de perfil son muy pequeñas, como en Twitter, pero igual necesitas una foto para tu Web, Blog o para el perfil de Linkedin que tiene una foto más grande. Tu ropa habla por ti de tus gustos, modo de expresarte y comunicarte, de tus aficiones etc. Por cierto, tampoco puedes hacerte fotos con las gafas sobre la cabeza, queda muy mal.
+  # Cuida tu `lenguaje corporal <https://es.wikipedia.org/wiki/Comunicaci%C3%B3n_no_verbal>`_ . No es indiferente que cruces los brazos de un modo u otro, las manos en los bolsillos o incluso el tipo de mueca o semblante en tu cara. Todo comunica y dice de ti.
 
 **Nombre completo**
+"""""""""""""""""""
+
 
 .. image:: img/name.png
     :align: center
