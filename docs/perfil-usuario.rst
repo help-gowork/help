@@ -59,11 +59,41 @@ En esta sección puedes incluir la información más relevante que quires mostra
 
 De forma general cualquier tipo de usuario puede:
  * **Cargar imagen** de tu pefil.
+
+.. image:: img/name.png
+    :align: center
+    :alt: Carga una imagen de perfil
+	
  * Definir tu **nombre completo** de perfil.
+
+.. image:: img/name.png
+    :align: center
+    :alt: Define tu nombre completo
+
  * Indicar una **descripción corta**.
+
+.. image:: img/name.png
+    :align: center
+    :alt: Define la descripción corta
+
  * Indicar una **descripción larga** mediante un potente editor de texto.
+
+.. image:: img/long-description.png
+    :align: center
+    :alt: Descripción larga del perfil
+ 
+ 
  * **Agregar vídeo** mediante la carga de un archivo MP4 o la :term:`URL` de un vídeo subido a las plataformas de youtube o vimeo.
+ 
+.. image:: img/video.png
+    :align: center
+    :alt: Agregar video
+ 
  * **Agragar enlaces sociales** de cualquier tipo. El sistema detecta automáticamente el tipo de red (facebook, twitter, linkedin, blog, etc.) al que hace referencia
+
+.. image:: img/upload-url.png
+    :align: center
+    :alt: Agregar enlaces
  
  .. note:: 	La URL que quieran agregar deberá comenzar por **http://** o **https://**
 			según sea el caso. Sin esta descripción el sistema no detectará correctamente la URL
@@ -74,8 +104,8 @@ Si no quieres guardar los cambios pusla en en botón inferior **Regresar a mi pe
 
 A continuación se explica el detalle de cada información y aspectos exclusivos para cada perfil.
 
-... como Persona
-^^^^^^^^^^^^^^^^
+Persona
+^^^^^^^
 
 Cargar imagen
 """""""""""""
@@ -112,6 +142,15 @@ Te facilitamos 8 trucos para que tengas una foto de perfil profesional (Fuente: 
     :alt: Define tu nombre completo
 	
 En esta casilla puedes indicar tu nombre y apellidos o el nombre por el cual quieres que te recuerden. Este dato aparecerá en tu perfil público.
+
+**Descripción corta**
+"""""""""""""""""""""
+
+.. image:: img/name.png
+    :align: center
+    :alt: Define la descripción corta
+
+
 
 **Descripción larga**
 """""""""""""""""""""
