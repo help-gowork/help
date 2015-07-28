@@ -77,7 +77,7 @@ A continuación se explica el detalle de cada información y aspectos exclusivos
 
 ... como Persona
 ^^^^^^^^^^^^^^^^
-.. _cargar_imagen_persona:
+.. _Cargar imagen:
 
 **Cargar imagen**
 
