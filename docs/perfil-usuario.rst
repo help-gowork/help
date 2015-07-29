@@ -67,7 +67,7 @@ De forma general cualquier tipo de usuario puede:
 		:align: center
 		:alt: Define tu nombre completo
  * Indicar una descripción corta.
-	.. image:: img/short-name.png
+	.. image:: img/short-description.png
 		:align: center
 		:alt: Define la descripción corta
  * Indicar una descripción larga mediante un potente editor de texto.
@@ -89,6 +89,10 @@ De forma general cualquier tipo de usuario puede:
 Una vez que incluyes tu información más relevante la puedes actualizar en tu perfil pulsando el botón inferior **Actualizar informción**.
 
 Si no quieres guardar los cambios pusla en en botón inferior **Regresar a mi perfil**.
+
+.. image:: img/actualiza-regresa.png
+	:align: center
+	:alt: Botones de actualizar y regresar a mi perfil
 
 A continuación se explica el detalle de cada información y aspectos exclusivos para cada perfil.
 
@@ -221,12 +225,132 @@ Si pulsas **Agregar video** se muestra la siguiente imagen
  * **Subiendo un archivo** que será en formato MP4, WEBM o MOV y de un tamaño no superior a 10 MB
 	.. tip:: 	Si dispones de un archivo de vídeo y quieres cambiar el formato o tamaño puedes utilizar como herramienta `Freemake Video Converter <http://www.freemake.com/es/>`_
  
+**Agregar enlaces**
+"""""""""""""""""""
+
+Tu perfil podrá mostrar cualquier otro enlace a perfiles sociales (linkedin, twitter, facebook, etc.), blogs, noticias, web personal, etc.
+
+.. image:: img/upload-url.png
+    :align: center
+    :alt: Agregar enlaces
+	
+Para ello sólo tendrás que escribir la ruta del enlace que quieres indicar en tu perfil y el sistema le asignará automáticamente el icono correspondiente.
+
+La ruta del enlace corresponde a la que aparece en la barra de direcciones del navegador que empieza por http:// o https://.
+
+	.. tip:: 	Si el sistema no encuentra el icono para la red asociada, informa al correo `info@gowork.es <mailto:info@gowork.es>`_ y se encargarán de añadir el icono y actualizarlo en tu perfil.
+
  
 **Empresa**
 ^^^^^^^^^^^
 
+**Cargar imagen**
+"""""""""""""""""
+.. image:: img/upload-image.png
+    :align: center
+    :alt: Carga la imagen de tu marca
+	
+Esta opción te permite incluir tu imagen corporativa, marca, logo o grafo que identifique tu empresa, modelo de negocio o iniciativa empresarial mediante un archivo de imagen.
+	
+**Nombre completo**
+"""""""""""""""""""
+.. image:: img/name.png
+    :align: center
+    :alt: Define el nombre de tu empresa
+
+En este apartado puedes escribir el nombre con el que los clientes identifican a tu empresa.
+	
+**Descripción corta**
+"""""""""""""""""""""
+.. image:: img/short-description.png
+    :align: center
+    :alt: Define la descripción corta
+	
+En la descripción corta podrás incluir tu :term:`Propuesta de valor` o :term:`Eslogan` para hacerte diferenciar del resto y captar la atención del potencial cliente o talento.
+	
+**Descripción larga**
+"""""""""""""""""""""
+.. image:: img/long-description.png
+    :align: center
+    :alt: Define la descripción larga
+	
+Nuestro avanzado editor te permite desarrollar una descripción más elaborada de tus productos o servicios.
+
+Puedes añadir enlaces, dar formato al texto, introducir algún :term:`iframe`
+
+**Agregar video**
+"""""""""""""""""
+.. image:: img/video.png
+    :align: center
+    :alt: Agregar video
+	
+	
+**Agregar enlaces**
+"""""""""""""""""""
+
+Tu perfil podrá mostrar cualquier otro enlace a perfiles sociales (linkedin, twitter, facebook, etc.), blogs, noticias, web personal, etc.
+
+.. image:: img/upload-url.png
+    :align: center
+    :alt: Agregar enlaces
+	
+Para ello sólo tendrás que escribir la ruta del enlace que quieres indicar en tu perfil y el sistema le asignará automáticamente el icono correspondiente.
+
+La ruta del enlace corresponde a la que aparece en la barra de direcciones del navegador que empieza por http:// o https://.
+
+	.. tip:: 	Si el sistema no encuentra el icono para la red asociada, informa al correo `info@gowork.es <mailto:info@gowork.es>`_ y se encargarán de añadir el icono y actualizarlo en tu perfil.
+
+
 **Universidad**
 ^^^^^^^^^^^^^^^
+
+**Cargar imagen**
+"""""""""""""""""
+.. image:: img/upload-image.png
+    :align: center
+    :alt: Carga una imagen de perfil
+	
+**Nombre completo**
+"""""""""""""""""""
+.. image:: img/name.png
+    :align: center
+    :alt: Define tu nombre completo
+	
+**Descripción corta**
+"""""""""""""""""""""
+.. image:: img/short-description.png
+    :align: center
+    :alt: Define la descripción corta
+	
+**Descripción larga**
+"""""""""""""""""""""
+.. image:: img/long-description.png
+    :align: center
+    :alt: Define la descripción larga
+
+**Agregar video**
+"""""""""""""""""
+.. image:: img/video.png
+    :align: center
+    :alt: Agregar video
+	
+	
+**Agregar enlaces**
+"""""""""""""""""""
+
+Tu perfil podrá mostrar cualquier otro enlace a perfiles sociales (linkedin, twitter, facebook, etc.), blogs, noticias, web personal, etc.
+
+.. image:: img/upload-url.png
+    :align: center
+    :alt: Agregar enlaces
+	
+Para ello sólo tendrás que escribir la ruta del enlace que quieres indicar en tu perfil y el sistema le asignará automáticamente el icono correspondiente.
+
+La ruta del enlace corresponde a la que aparece en la barra de direcciones del navegador que empieza por http:// o https://.
+
+	.. tip:: 	Si el sistema no encuentra el icono para la red asociada, informa al correo `info@gowork.es <mailto:info@gowork.es>`_ y se encargarán de añadir el icono y actualizarlo en tu perfil.
+
+
 
 Administrador de etiquetas
 --------------------------
