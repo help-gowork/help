@@ -92,8 +92,8 @@ Si no quieres guardar los cambios pusla en en botón inferior **Regresar a mi pe
 
 A continuación se explica el detalle de cada información y aspectos exclusivos para cada perfil.
 
-Persona
-^^^^^^^
+**Persona**
+^^^^^^^^^^^
 
 **Cargar imagen**
 """""""""""""""""
@@ -138,7 +138,7 @@ En esta casilla puedes indicar tu nombre y apellidos o el nombre por el cual qui
     :align: center
     :alt: Define la descripción corta
 
-
+En este campo podrás destacar alguna frase sobre tu perfil o situación para lograr llamar la atención e impactar mucho más.
 
 **Descripción larga**
 """""""""""""""""""""
@@ -204,6 +204,10 @@ Aquí podrás **ver curriculum vitae** o **eliminar archivo** en el caso que qui
  
 Tu perfil en `GoWork`_ te permite agregar o enlazar un video que se adaptará al tamaño del dispositivo desde donde se vea de forma automática.
 
+Este vídeo podrá ser tu video currículum, algún vídeo en donde estes realizando una ponencia o charla, o algún video de tu sector de actividad.
+
+**No desaproveches esta oportunidad**
+
 Si pulsas **Agregar video** se muestra la siguiente imagen
 
 .. image:: img/upload-video.png
@@ -213,16 +217,16 @@ Si pulsas **Agregar video** se muestra la siguiente imagen
 `GoWork`_ te permite agregar un video de dos formas diferentes:
 
  * **Ingresando la URL del video** donde puedes colocar el enlace :term:`URL` completo de tu video si lo tienes alojado en las plataformas de `youtube`_ o `vimeo`_
+	.. note:: 	La URL del video corresponde a la dirección que aparece en la barra de direcciones de nuestro explorador cuando lo estamos visualizando.
  * **Subiendo un archivo** que será en formato MP4, WEBM o MOV y de un tamaño no superior a 10 MB
+	.. tip:: 	Si dispones de un archivo de vídeo y quieres cambiar el formato o tamaño puedes utilizar como herramienta `Freemake Video Converter <http://www.freemake.com/es/>`_
  
- .. tip:: 	Si dispones de un archivo de vídeo y quieres cambiar el formato o tamaño puedes utilizar como herramienta `Freemake Video Converter <http://www.freemake.com/es/>`_
  
- 
-... como Empresa
-^^^^^^^^^^^^^^^^
+**Empresa**
+^^^^^^^^^^^
 
-... como Universidad
-^^^^^^^^^^^^^^^^^^^^
+**Universidad**
+^^^^^^^^^^^^^^^
 
 Administrador de etiquetas
 --------------------------
