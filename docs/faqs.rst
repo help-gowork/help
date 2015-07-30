@@ -5,6 +5,7 @@ Preguntas frecuentes
 
 ¿Cómo comparto mi perfil?
 -------------------------
+
 Podrás compartir la :term:`URL` o dirección de tu perfil en cualquiera de los canales que utilices a través de redes sociales, mails o trajetas de visita.
 
 A continuación ofrecemos algunas recomendaciones:
@@ -18,8 +19,10 @@ A continuación ofrecemos algunas recomendaciones:
  * Incorpora la :term:`URL` de tu perfil en el pié de página de tu email, reduciendo el
    espacio ocupado por otros enlaces a redes sociales, blogs, etc.
 				
+				
 ¿Cómo pido recomendaciones a otros usuarios?
 --------------------------------------------
+
 Para pedir recomendaciones a tus contactos puedes hacerlo enviándoles un correo sencillo, atractivo y directo.
 
 O tambien puedes utilizar el correo base que se mostrará pulsando sobre `**Enviar recomendaciones** <mailto:?subject=Valida mis aptitudes&body=Hola, soy *|FNAME|*%0A%0AMe gustaría que validases las etiquetas de mi perfil %0A%0ASólo tendrás que registrate en GoWork.es, visitar mi perfil, pulsar sobre la competencia que quieras y escribir un comentario jun>`_
