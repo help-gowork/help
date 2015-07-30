@@ -1,3 +1,3 @@
 
-Módulos
-=======
+Funcionalidades
+===============
