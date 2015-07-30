@@ -1,5 +1,5 @@
 .. _email-checker.com: https://www.email-checker.com/email-checker-api/
--- _info@gowork.es: <mailto:info@gowork.es>
+.. _info@gowork.es: mailto:info@gowork.es
 
 
 Preguntas frecuentes
