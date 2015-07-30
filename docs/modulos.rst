@@ -27,13 +27,13 @@ Al pulsar sobre el botón **añadir** se inserta la etiqueta en mi perfil que po
  
  Si queremos incluir alguna otra referencia: expediente académico, mención de honor, PFG o cualquier otro reconocimiento académico, lo podré hacer pulsando sobre el botón **editar** de la etiqueta.
  
-.. image:: img/e1.1.png
+.. image:: img/e1-1.png
     :align: center
     :alt: Etiqueta de formación cargada
  
  De esta forma podremos añadir cuantos enlaces creamos convenientes pulsando sobre el botón **+** que aparece a la derecha de "Nombre de la etiqueta" e introduciendo la :term:`URL` del enlace al documento que queramos compartir.
  
-.. image:: img/e1.2.png
+.. image:: img/e1-2.png
     :align: center
     :alt: Editar etiqueta de formación
 	
@@ -41,13 +41,13 @@ Al pulsar sobre el botón **actualizar** regresaremos al editor de etiquetas.
 
 Tambien desde este apartados podremos añadir comentarios pulsando sobre el botón **editar** de la etiqueta agregando al comentario una valoración en forma de rango de estrellas.
  
-.. image:: img/e1.3.png
+.. image:: img/e1-3.png
     :align: center
     :alt: Añadir comentario a la etiqueta de formación
 	
 Una vez escrito, pulsando en **comentar** y se nos fijaría el comentario dentro de la etiqueta. Para ver el comentario volveríamos a pulsar sobre editar.
 
-.. image:: img/e1.4.png
+.. image:: img/e1-4.png
     :align: center
     :alt: Comentario añadido en la etiqueta de formación
 

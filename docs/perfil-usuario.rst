@@ -197,7 +197,7 @@ Si eliges la opción de **Upload** el sistema carga automáticamente el currícu
 	
 Aquí podrás **ver curriculum vitae** o **eliminar archivo** en el caso que quieras eliminar tu currículum en el sistema.
 	
- .. note:: 	El currículum sólo podrá ser visualizado y descargado por el propio usuario y por los usuarios empresa. Cualquier otro usuario (sea Universidad o Persona) no podrá descargar el currículum de otro usuario desde su perfil.
+ .. note:: 	El currículum sólo podrá ser visualizado y descargado por el propio usuario y por los usuarios empresa. Cualquier otro usuario (sea :term:`Universidad` o :term:`Persona`) no podrá descargar el currículum de otro usuario desde su perfil.
  
 **Agregar video**
 """""""""""""""""
@@ -428,7 +428,7 @@ Sólo tendrás que escribirlas, el sistema te ofrecerá un listado de términos 
 
 Una vez definida debes pulsar el botón **añadir** para quedar fijada en tu perfil.
 
-Una vez fijada podrás editar, añadir nuevos enlaces o actulizar los existentes, incluir tus propios comentarios y ver los comentarios recibidos de otros usuarios (:term:`Personas`, :term:`Empresas` o :term:`Universidades`)
+Una vez fijada podrás editar, añadir nuevos enlaces o actulizar los existentes, incluir tus propios comentarios y ver los comentarios recibidos de otros usuarios (sea una :term:`Persona`, :term:`Empresa` o :term:`Universidade`)
 
 Puedes ampliar más información sobre las posibilidades que te ofrece esta herramienta desde la sección de `funcionalidades <>`_
 
