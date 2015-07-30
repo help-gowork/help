@@ -5,12 +5,12 @@ Preguntas frecuentes
 
 ¿Cómo comparto mi perfil?
 -------------------------
-Podrás compartir la :term:URL o dirección de tu perfil en cualquiera de los canales que utilices a través de redes sociales, mails o trajetas de visita.
+Podrás compartir la :term:`URL` o dirección de tu perfil en cualquiera de los canales que utilices a través de redes sociales, mails o trajetas de visita.
 
 A continuación ofrecemos algunas recomendaciones:
  * Envía el enlace del perfil a las empresas o profesionales con los que quieres conectar.
    Focaliza tu mensaje ya que podrá ver toda la información relevante desde la dirección de tu perfil.
- * Crea tu código `QR <http://www.codigos-qr.com/generador-de-codigos-qr/>`_ con el
+ * Crea tu código :term:`QR` con el
    enlace de tu perfil e incluyela en tus tarjetas de visita. De esta forma tendrás una tarjeta de presentación interactiva.
  * Crea una tarjeta de visita en tu móvil mediante aplicaciones como la de `Yodigosi 
    <http://yodigosi.com/crear-tarjeta>`_ incluye tu perfil de GoWork y compartela en cualquier momento y lugar.
