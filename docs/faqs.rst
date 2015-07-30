@@ -1,7 +1,7 @@
 .. _email-checker.com: https://www.email-checker.com/email-checker-api/
 
-Frequently Asked Questions
-==========================
+Preguntas frecuentes
+====================
 
 How can I get a key?
 --------------------

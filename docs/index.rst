@@ -42,7 +42,7 @@ FAQs
 .. 	toctree::
 	:maxdepth: 2
 	
-	frequently-asked-questions
+	faqs
 	
 Términos
 --------

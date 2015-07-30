@@ -25,13 +25,13 @@ Al pulsar sobre el botón **añadir** se inserta la etiqueta en mi perfil que po
 
  .. note:: 	Si pulso **borrar** se borrará toda la información que contenga la etiqueta para siempre. Este paso no se puede deshacer.
  
- Si queremos incluir alguna otra referencia: expediente académico, mención de honor, PFG o cualquier otro reconocimiento académico, lo podré hacer pulsando sobre el botón **editar** de la etiqueta.
+Si queremos incluir alguna otra referencia: expediente académico, mención de honor, PFG o cualquier otro reconocimiento académico, lo podré hacer pulsando sobre el botón **editar** de la etiqueta.
  
 	.. image:: img/e1-1.png
 		:align: center
 		:alt: Etiqueta de formación cargada
  
- De esta forma podremos añadir cuantos enlaces creamos convenientes pulsando sobre el botón **+** que aparece a la derecha de "Nombre de la etiqueta" e introduciendo la :term:`URL` del enlace al documento que queramos compartir.
+De esta forma podremos añadir cuantos enlaces creamos convenientes pulsando sobre el botón **+** que aparece a la derecha de "Nombre de la etiqueta" e introduciendo la :term:`URL` del enlace al documento que queramos compartir.
  
 	.. image:: img/e1-2.png
 		:align: center
@@ -52,3 +52,18 @@ Una vez escrito, pulsando en **comentar** y se nos fijaría el comentario dentro
 		:alt: Comentario añadido en la etiqueta de formación
 
 Este comentario se fijará como un twit en donde figurará quién a realizado el comentario, con qué valoración y comentario y en que fechea lo ha realizado.
+
+Recibir comentarios
+^^^^^^^^^^^^^^^^^^^
+
+Todo usuario registrado en `GoWork`_ puede realizar comentarios a los usuario :term:`Persona` con las siguientes restricciones:
+
+ * **Empresas**: Podran acceder a todos los comentarios recibidos y enlaces de cada etiqueta
+   de formación, competencias o habilidades de la persona.
+   Sólo podrá validar las etiquetas de competencias y habilidades, ya que las empresas no se consideran como entidades de formación.
+ * **Personas**: Sólo podrá validar las etiquetas de competencias y habilidades de otras
+   personas.
+   No podrá ver el resto de comentarios que la persona ha podido recibir dentro de cualquiera de sus etiquetas por otros usuarios. Sólo verá sus comentarios</dd><br />
+ * **Universidades** Podrá validar las etiquetas de formación, competencias y habilidades.
+   No podrá ver el resto de comentarios que la persona ha podido recibir en sus etiquetas de formación, competencia o habilidad por otros usuarios. Sólo verá sus comentarios</dd>
+
