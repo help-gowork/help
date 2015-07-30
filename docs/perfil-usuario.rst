@@ -492,15 +492,15 @@ Intereses
 Ver perfil
 ----------
  
- Pulsando sobre el botón de ver perfil visualizaremos el aspecto que tiene nuestro perfil de forma pública a tiempo real. 
+Pulsando sobre el botón de ver perfil visualizaremos el aspecto que tiene nuestro perfil de forma pública a tiempo real. 
  
- .. image:: img/view-my-profile.png
-    :align: center
-    :alt: vista perfil público usuario registrado en gowork
+	.. image:: img/view-my-profile.png
+		:align: center
+		:alt: vista perfil público usuario registrado en gowork
  
-  Para regresar a las opciones de mi perfil debo pulsar sobre el menú `Mi peril`_ que aparece en la parte superior derecha.
+Para regresar a las opciones de mi perfil debo pulsar sobre el menú `Mi peril`_ que aparece en la parte superior derecha.
   
-  De esta forma podrás diseñar la imagen o formato de tu perfil para lograr el máximo impacto posible.
+De esta forma podrás diseñar la imagen o formato de tu perfil para lograr el máximo impacto posible.
  
 Ayuda editor de texto
 ---------------------
