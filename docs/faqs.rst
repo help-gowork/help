@@ -1,4 +1,3 @@
-.. _email-checker.com: https://www.email-checker.com/email-checker-api/
 .. _info@gowork.es: mailto:info@gowork.es
 
 
@@ -33,14 +32,14 @@ O tambien puedes utilizar el correo base que se mostrará pulsando sobre `Enviar
 ¿Qué hago si no recuerdo el mail ni el usuario de acceso?
 ---------------------------------------------------------
 
-En el caso de que no recuerde ni su mail ni el nombre de usuario utilizado para el acceso a su perfil, puede reclamarlo enviando una solicitud al correo `info@gowork.es` 
+En el caso de que no recuerde ni su mail ni el nombre de usuario utilizado para el acceso a su perfil, puede reclamarlo enviando una solicitud al correo `info@gowork.es`_ 
 
 ¿Cómo puedo modificar los comentarios que haga?
 -----------------------------------------------
 
 Los comentarios que realice hacia otros usuarios no los podrá modificar ni eliminar de forma directa.
 
-Si ha comentido algún error de escritura o equivocación a la hora de realizar ese comentario para una etiqueta dada, has de notificarnoslo al mail `info@gowork.es`
+Si ha comentido algún error de escritura o equivocación a la hora de realizar ese comentario para una etiqueta dada, has de notificarnoslo al mail `info@gowork.es`_
 
 
 
