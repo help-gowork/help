@@ -382,6 +382,15 @@ La ruta del enlace corresponde a la que aparece en la barra de direcciones del n
 Administrador de etiquetas
 --------------------------
 
+`GoWork`_ te permite demostrar tu formación y competencias o habilidades. Así como conectar con otros usuarios alineados con tus intereses de forma automática.
+
+Para ello, debes definir las etiquetas pulsando sobre el botón **administrador de etiquetas** de tu perfil
+
+.. image:: img/management-skills.png
+    :align: center
+    :alt: Administrador de etiquetas
+
+
 **Persona**
 ^^^^^^^^^^^
 
@@ -391,13 +400,37 @@ Competencias y habilidades
     :align: center
     :alt: Administrador de etiquetas de competencias y habilidades de la persona
 
+Tu puedes definir tus competencias y habilidades de forma muy sencilla con `GoWork`_
+
+Sólo tendrás que escribirlas, el sistema te ofrecerá un listado de términos relacionados con la palabra que estás escribiendo que te ayudarán a tu elección. No obstante, puedes escribir el término que mejor consideres.
+
+.. image:: img/add-skill-talent-person.png
+    :align: center
+    :alt: Administrador de etiquetas de competencias y habilidades de la persona
+
+	.. tip:: 	Eligiendo los términos que te aparecen sugeridos optimizarás las opciones de búsqueda
+
 Titulaciones
 """"""""""""
 .. image:: img/management-skills-training-person.png
     :align: center
     :alt: Administrador de etiquetas de formación
 
+Tu puedes definir tu formación de forma muy sencilla con `GoWork`_
 
+Sólo tendrás que escribirlas, el sistema te ofrecerá un listado de términos relacionados con la palabra que estás escribiendo que te ayudarán a tu elección. No obstante, puedes escribir el término o titulación que tengas.
+
+	.. image:: img/add-skill-training-person.png
+		:align: center
+		:alt: Administrador de etiquetas de competencias y habilidades de la persona
+
+	.. tip:: 	Eligiendo los términos que te aparecen sugeridos optimizarás las opciones de búsqueda
+
+Una vez definida debes pulsar el botón **añadir** para quedar fijada en tu perfil.
+
+Una vez fijada podrás editar, añadir nuevos enlaces o actulizar los existentes, incluir tus propios comentarios y ver los comentarios recibidos de otros usuarios (:term:`Personas`, :term:`Empresas` o :term:`Universidades`)
+
+Puedes ampliar más información sobre las posibilidades que te ofrece esta herramienta desde la sección de `funcionalidades <>`_
 
 Intereses
 """""""""
@@ -443,13 +476,15 @@ Intereses
 Ver perfil
 ----------
  
- Pulsando sobre el botón de ver perfil visualizaremos el aspecto que tiene nuestro perfil de forma pública.
+ Pulsando sobre el botón de ver perfil visualizaremos el aspecto que tiene nuestro perfil de forma pública a tiempo real. 
  
  .. image:: img/view-my-profile.png
     :align: center
     :alt: vista perfil público usuario registrado en gowork
  
- Para regresar a las opciones de mi perfil debo pulsar sobre el menú `Mi peril`_ que aparece en la parte superior derecha.
+  Para regresar a las opciones de mi perfil debo pulsar sobre el menú `Mi peril`_ que aparece en la parte superior derecha.
+  
+  De esta forma podrás diseñar la imagen o formato de tu perfil para lograr el máximo impacto posible.
  
 Ayuda editor de texto
 ---------------------
