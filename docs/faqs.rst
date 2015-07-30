@@ -3,10 +3,21 @@
 Preguntas frecuentes
 ====================
 
-How can I get a key?
---------------------
-`Click here <https://www.email-checker.com/email-checker-api/#trial_key>`_ to request a license key.
+¿Cómo comparto mi perfil?
+-------------------------
+Podrás compartir la :term:URL o dirección de tu perfil en cualquiera de los canales que utilices a través de redes sociales, mails o trajetas de visita.
 
+A continuación ofrecemos algunas recomendaciones:
+ * Envía el enlace del perfil a las empresas o profesionales con los que quieres conectar.
+   Focaliza tu mensaje ya que podrá ver toda la información relevante desde la dirección de tu perfil.
+ * Crea tu código `QR <http://www.codigos-qr.com/generador-de-codigos-qr/>`_ con el
+   enlace de tu perfil e incluyela en tus tarjetas de visita. De esta forma tendrás una tarjeta de presentación interactiva.
+ * Crea una tarjeta de visita en tu móvil mediante aplicaciones como la de `Yodigosi 
+   <http://yodigosi.com/crear-tarjeta>`_ incluye tu perfil de GoWork y compartela en cualquier momento y lugar.
+ * Inserta la :term:`URL` de tu perfil en tus redes sociales.
+ * Incorpora la :term:`URL` de tu perfil en el pié de página de tu email, reduciendo el
+   espacio ocupado por otros enlaces a redes sociales, blogs, etc.
+				
 How do I call the API?
 ----------------------
 Make a simple GET request to the endpoint. For example, to query email address *anyone@yourdomain.com* with license key *ABCD1234* call:

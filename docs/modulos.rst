@@ -63,7 +63,7 @@ Todo usuario registrado en `GoWork`_ puede realizar comentarios a los usuario :t
    Sólo podrá validar las etiquetas de competencias y habilidades, ya que las empresas no se consideran como entidades de formación.
  * **Personas**: Sólo podrá validar las etiquetas de competencias y habilidades de otras
    personas.
-   No podrá ver el resto de comentarios que la persona ha podido recibir dentro de cualquiera de sus etiquetas por otros usuarios. Sólo verá sus comentarios</dd><br />
+   No podrá ver el resto de comentarios que la persona ha podido recibir dentro de cualquiera de sus etiquetas por otros usuarios. Sólo verá sus comentarios realizados.
  * **Universidades** Podrá validar las etiquetas de formación, competencias y habilidades.
-   No podrá ver el resto de comentarios que la persona ha podido recibir en sus etiquetas de formación, competencia o habilidad por otros usuarios. Sólo verá sus comentarios</dd>
+   No podrá ver el resto de comentarios que la persona ha podido recibir en cualquiera de tus etiquetas. Sólo verá sus propios comentarios realizados.
 
