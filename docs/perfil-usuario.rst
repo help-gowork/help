@@ -13,9 +13,9 @@ disfrutar de las funcionalidades.
 
 Una vez que ingreses encontrarás la siguiente imagen:
 
-.. image:: img/panel-user-registered.png
-    :align: center
-    :alt: panel usuario registrado en gowork
+	.. image:: img/panel-user-registered.png
+		:align: center
+		:alt: panel usuario registrado en gowork
 
 Desde donde podrás acceder a:
 
@@ -28,9 +28,9 @@ Editar acceso
 -------------
 En editar acceso puedes actualizar todos los parámetros de acceso a tu perfil
 
-.. image:: img/edit-profile.png
-    :align: center
-    :alt: Formulario para editar los parámetros de acceso al perfil
+	.. image:: img/edit-profile.png
+		:align: center
+		:alt: Formulario para editar los parámetros de acceso al perfil
 	
 Estos parámetros son: 
  
@@ -90,9 +90,9 @@ Una vez que incluyes tu información más relevante la puedes actualizar en tu p
 
 Si no quieres guardar los cambios pusla en en botón inferior **Regresar a mi perfil**.
 
-.. image:: img/actualiza-regresa.png
-	:align: center
-	:alt: Botones de actualizar y regresar a mi perfil
+	.. image:: img/actualiza-regresa.png
+		:align: center
+		:alt: Botones de actualizar y regresar a mi perfil
 
 A continuación se explica el detalle de cada información y aspectos exclusivos para cada perfil.
 
@@ -102,9 +102,9 @@ A continuación se explica el detalle de cada información y aspectos exclusivos
 **Cargar imagen**
 """""""""""""""""
 
-.. image:: img/upload-image.png
-    :align: center
-    :alt: Carga una imagen de perfil
+	.. image:: img/upload-image.png
+		:align: center
+		:alt: Carga una imagen de perfil
 
 Al pulsando el botón **Browse ...**	se abre una ventana que te permite seleccionar el archivo de imagen de tu perfil. En tu caso sería una foto personal.
 
@@ -129,27 +129,27 @@ Te facilitamos 8 trucos para que tengas una foto de perfil profesional (Fuente: 
 **Nombre completo**
 """""""""""""""""""
 
-.. image:: img/name.png
-    :align: center
-    :alt: Define tu nombre completo
+	.. image:: img/name.png
+		:align: center
+		:alt: Define tu nombre completo
 	
 En esta casilla puedes indicar tu nombre y apellidos o el nombre por el cual quieres que te recuerden. Este dato aparecerá en tu perfil público.
 
 **Descripción corta**
 """""""""""""""""""""
 
-.. image:: img/short-description.png
-    :align: center
-    :alt: Define la descripción corta
+	.. image:: img/short-description.png
+		:align: center
+		:alt: Define la descripción corta
 
 En este campo podrás destacar alguna frase sobre tu perfil o situación para lograr llamar la atención e impactar mucho más.
 
 **Descripción larga**
 """""""""""""""""""""
 
-.. image:: img/long-description.png
-    :align: center
-    :alt: Descripción larga del perfil
+	.. image:: img/long-description.png
+		:align: center
+		:alt: Descripción larga del perfil
 	
 En este apartado realiza tu descripción de forma más detallada.
 
@@ -163,9 +163,9 @@ En cualquiera de los dos casos, tu perfil te permite cambiar el mensaje que quie
 """""""""""""""""""""""""""
 Como usuario :term:`Persona` en tu pefil exite un campo que no tienen el resto de usuarios.
 
-.. image:: img/upload-cv.png
-    :align: center
-    :alt: Seleccionar currículum vitae
+	.. image:: img/upload-cv.png
+		:align: center
+		:alt: Seleccionar currículum vitae
 
 Si estás cansado en tener que rellenar repetidamente todo lo que pone tu currículum en las plataformas de empleo, `GoWork`_ te lo pone fácil ya que te permite cargar directamente tu currículum en formato pdf o work (.doc o .docx)
 
@@ -179,9 +179,9 @@ Pulsa en **Browse ...** para seleccionar el archivo de tu currículum.
 
 Una vez seleccionado aparece la siguiente imagen.
 	
-.. image:: img/pre-upload-cv.png
-    :align: center
-    :alt: Cargar currículum vitae
+	.. image:: img/pre-upload-cv.png
+		:align: center
+		:alt: Cargar currículum vitae
 	
 En este punto podrás:
 
@@ -191,9 +191,9 @@ En este punto podrás:
  
 Si eliges la opción de **Upload** el sistema carga automáticamente el currículum a tu perfil mostrando la siguiente imagen.
 	
-.. image:: img/see-cv.png
-    :align: center
-    :alt: Gestionar currículum vitae
+	.. image:: img/see-cv.png
+		:align: center
+		:alt: Gestionar currículum vitae
 	
 Aquí podrás **ver curriculum vitae** o **eliminar archivo** en el caso que quieras eliminar tu currículum en el sistema.
 	
@@ -202,9 +202,9 @@ Aquí podrás **ver curriculum vitae** o **eliminar archivo** en el caso que qui
 **Agregar video**
 """""""""""""""""
 
-.. image:: img/video.png
-    :align: center
-    :alt: Agregar video
+	.. image:: img/video.png
+		:align: center
+		:alt: Agregar video
  
 Tu perfil en `GoWork`_ te permite agregar o enlazar un video que se adaptará al tamaño del dispositivo desde donde se vea de forma automática.
 
@@ -214,9 +214,9 @@ Este vídeo podrá ser tu video currículum, algún vídeo en donde estes realiz
 
 Si pulsas **Agregar video** se muestra la siguiente imagen
 
-.. image:: img/upload-video.png
-    :align: center
-    :alt: Ventana para cargar video
+	.. image:: img/upload-video.png
+		:align: center
+		:alt: Ventana para cargar video
  
 `GoWork`_ te permite agregar un video de dos formas diferentes:
 
@@ -230,9 +230,9 @@ Si pulsas **Agregar video** se muestra la siguiente imagen
 
 Tu perfil podrá mostrar cualquier otro enlace a perfiles sociales (linkedin, twitter, facebook, etc.), blogs, noticias, web personal, etc.
 
-.. image:: img/upload-url.png
-    :align: center
-    :alt: Agregar enlaces
+	.. image:: img/upload-url.png
+		:align: center
+		:alt: Agregar enlaces
 	
 Para ello sólo tendrás que escribir la ruta del enlace que quieres indicar en tu perfil y el sistema le asignará automáticamente el icono correspondiente.
 
@@ -246,33 +246,37 @@ La ruta del enlace corresponde a la que aparece en la barra de direcciones del n
 
 **Cargar imagen**
 """""""""""""""""
-.. image:: img/upload-image.png
-    :align: center
-    :alt: Carga la imagen de tu marca
+	
+	.. image:: img/upload-image.png
+		:align: center
+		:alt: Carga la imagen de tu marca
 	
 Esta opción te permite incluir tu imagen corporativa, marca, logo o grafo que identifique tu empresa, modelo de negocio o iniciativa empresarial mediante un archivo de imagen.
 	
 **Nombre completo**
 """""""""""""""""""
-.. image:: img/name.png
-    :align: center
-    :alt: Define el nombre de tu empresa
+
+	.. image:: img/name.png
+		:align: center
+		:alt: Define el nombre de tu empresa
 
 En este apartado puedes escribir el nombre con el que los clientes identifican a tu empresa.
 	
 **Descripción corta**
 """""""""""""""""""""
-.. image:: img/short-description.png
-    :align: center
-    :alt: Define la descripción corta
+	
+	.. image:: img/short-description.png
+		:align: center
+		:alt: Define la descripción corta
 	
 En la descripción corta podrás incluir tu :term:`Propuesta de valor` o :term:`Eslogan` para hacerte diferenciar del resto y captar la atención del potencial cliente o talento.
 	
 **Descripción larga**
 """""""""""""""""""""
-.. image:: img/long-description.png
-    :align: center
-    :alt: Define la descripción larga
+
+	.. image:: img/long-description.png
+		:align: center
+		:alt: Define la descripción larga
 	
 Nuestro avanzado editor te permite desarrollar una descripción más elaborada de tus productos o servicios.
 
@@ -280,9 +284,9 @@ Puedes añadir enlaces, dar formato al texto, introducir algún :term:`iframe`
 
 **Agregar video**
 """""""""""""""""
-.. image:: img/video.png
-    :align: center
-    :alt: Agregar video
+	.. image:: img/video.png
+		:align: center
+		:alt: Agregar video
 
 Esta funcionalidad te permitirá mostrar un vídeo de tu empresa, producto o servicio estrella o de tu modelo de negocio.
 
@@ -296,9 +300,9 @@ Esta funcionalidad te permitirá mostrar un vídeo de tu empresa, producto o ser
 
 Tu perfil podrá mostrar cualquier otro enlace a perfiles sociales (linkedin, twitter, facebook, etc.), blogs, noticias, web personal, etc.
 
-.. image:: img/upload-url.png
-    :align: center
-    :alt: Agregar enlaces
+	.. image:: img/upload-url.png
+		:align: center
+		:alt: Agregar enlaces
 	
 Para ello sólo tendrás que escribir la ruta del enlace que quieres indicar en tu perfil y el sistema le asignará automáticamente el icono correspondiente.
 
@@ -312,9 +316,10 @@ La ruta del enlace corresponde a la que aparece en la barra de direcciones del n
 
 **Cargar imagen**
 """""""""""""""""
-.. image:: img/upload-image.png
-    :align: center
-    :alt: Carga una imagen de perfil
+
+	.. image:: img/upload-image.png
+		:align: center
+		:alt: Carga una imagen de perfil
 
 Te permite cargar la insignia de la institución, logotipo o imagen de vuestra organización.
 
@@ -326,34 +331,38 @@ No pasa nada, existen múltiples aplicaciones web que te permiten diseñar tu lo
 	
 **Nombre completo**
 """""""""""""""""""
-.. image:: img/name.png
-    :align: center
-    :alt: Define tu nombre completo
+
+	.. image:: img/name.png
+		:align: center
+		:alt: Define tu nombre completo
 	
 Indica el nombre o departamento de la organización.
 	
 **Descripción corta**
 """""""""""""""""""""
-.. image:: img/short-description.png
-    :align: center
-    :alt: Define la descripción corta
+
+	.. image:: img/short-description.png
+		:align: center
+		:alt: Define la descripción corta
 
 En este campo puedes indicar algun :term:`Eslogan` o :term:`Propuesta de valor` que te haga desmarcar para captar la atención de los alumnos.
 	
 **Descripción larga**
 """""""""""""""""""""
-.. image:: img/long-description.png
-    :align: center
-    :alt: Define la descripción larga
+
+	.. image:: img/long-description.png
+		:align: center
+		:alt: Define la descripción larga
 
 En este campo puedes desarrollar de forma más completa vuestro catálogo de servicios y formación. Recuerda que el editor te permite incluir hipervínculos e :term:`iframe`	
 	
 	
 **Agregar video**
 """""""""""""""""
-.. image:: img/video.png
-    :align: center
-    :alt: Agregar video
+
+	.. image:: img/video.png
+		:align: center
+		:alt: Agregar video
 
 Esta funcionalidad te permitirá mostrar un vídeo de vuestra institución, servicios u oferta formativa.
 
@@ -368,9 +377,9 @@ Esta funcionalidad te permitirá mostrar un vídeo de vuestra institución, serv
 
 Tu perfil podrá mostrar cualquier otro enlace a perfiles sociales (linkedin, twitter, facebook, etc.), campus de formación, web corporativa, etc.
 
-.. image:: img/upload-url.png
-    :align: center
-    :alt: Agregar enlaces
+	.. image:: img/upload-url.png
+		:align: center
+		:alt: Agregar enlaces
 	
 Para ello sólo tendrás que escribir la ruta del enlace que quieres indicar en tu perfil y el sistema le asignará automáticamente el icono correspondiente.
 
@@ -386,9 +395,9 @@ Administrador de etiquetas
 
 Para ello, debes definir las etiquetas pulsando sobre el botón **administrador de etiquetas** de tu perfil
 
-.. image:: img/management-skills.png
-    :align: center
-    :alt: Administrador de etiquetas
+	.. image:: img/management-skills.png
+		:align: center
+		:alt: Administrador de etiquetas
 
 
 **Persona**
@@ -396,25 +405,27 @@ Para ello, debes definir las etiquetas pulsando sobre el botón **administrador 
 
 Competencias y habilidades
 """"""""""""""""""""""""""
-.. image:: img/management-skills-talent-person.png
-    :align: center
-    :alt: Administrador de etiquetas de competencias y habilidades de la persona
+
+	.. image:: img/management-skills-talent-person.png
+		:align: center
+		:alt: Administrador de etiquetas de competencias y habilidades de la persona
 
 Tu puedes definir tus competencias y habilidades de forma muy sencilla con `GoWork`_
 
 Sólo tendrás que escribirlas, el sistema te ofrecerá un listado de términos relacionados con la palabra que estás escribiendo que te ayudarán a tu elección. No obstante, puedes escribir el término que mejor consideres.
 
-.. image:: img/add-skill-talent-person.png
-    :align: center
-    :alt: Administrador de etiquetas de competencias y habilidades de la persona
+	.. image:: img/add-skill-talent-person.png
+		:align: center
+		:alt: Administrador de etiquetas de competencias y habilidades de la persona
 
 	.. tip:: 	Eligiendo los términos que te aparecen sugeridos optimizarás las opciones de búsqueda
 
 Titulaciones
 """"""""""""
-.. image:: img/management-skills-training-person.png
-    :align: center
-    :alt: Administrador de etiquetas de formación
+
+	.. image:: img/management-skills-training-person.png
+		:align: center
+		:alt: Administrador de etiquetas de formación
 
 Tu puedes definir tu formación de forma muy sencilla con `GoWork`_
 
@@ -434,9 +445,10 @@ Puedes ampliar más información sobre las posibilidades que te ofrece esta herr
 
 Intereses
 """""""""
-.. image:: img/management-skills-interest-person.png
-    :align: center
-    :alt: Administrador de etiquetas de interes de la persona
+
+	.. image:: img/management-skills-interest-person.png
+		:align: center
+		:alt: Administrador de etiquetas de interes de la persona
 
 
 **Empresa**
@@ -444,16 +456,18 @@ Intereses
 
 **Sector**
 """"""""""
-.. image:: img/management-skills-sector.png
-    :align: center
-    :alt: Administrador de etiquetas sector
+
+	.. image:: img/management-skills-sector.png
+		:align: center
+		:alt: Administrador de etiquetas sector
 
 
 **Intereses**
 """""""""""""
-.. image:: img/management-skills-interest.png
-    :align: center
-    :alt: Administrador de etiquetas de interes
+
+	.. image:: img/management-skills-interest.png
+		:align: center
+		:alt: Administrador de etiquetas de interes
 
 
 **Universidad**
@@ -461,15 +475,17 @@ Intereses
 
 **Sector**
 """"""""""
-.. image:: img/management-skills-sector.png
-    :align: center
-    :alt: Administrador de etiquetas sector
+
+	.. image:: img/management-skills-sector.png
+		:align: center
+		:alt: Administrador de etiquetas sector
 
 **Intereses**
 """""""""""""
-.. image:: img/management-skills-interest.png
-    :align: center
-    :alt: Administrador de etiquetas de interes
+
+	.. image:: img/management-skills-interest.png
+		:align: center
+		:alt: Administrador de etiquetas de interes
 
  
  
