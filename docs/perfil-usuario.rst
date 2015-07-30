@@ -283,7 +283,13 @@ Puedes añadir enlaces, dar formato al texto, introducir algún :term:`iframe`
 .. image:: img/video.png
     :align: center
     :alt: Agregar video
-	
+
+Esta funcionalidad te permitirá mostrar un vídeo de tu empresa, producto o servicio estrella o de tu modelo de negocio.
+
+ * **Ingresando la URL del video** donde puedes colocar el enlace :term:`URL` completo de tu video si lo tienes alojado en las plataformas de `youtube`_ o `vimeo`_
+	.. note:: 	La URL del video corresponde a la dirección que aparece en la barra de direcciones de nuestro explorador cuando lo estamos visualizando.
+ * **Subiendo un archivo** que será en formato MP4, WEBM o MOV y de un tamaño no superior a 10 MB
+	.. tip:: 	Si dispones de un archivo de vídeo y quieres cambiar el formato o tamaño puedes utilizar como herramienta `Freemake Video Converter <http://www.freemake.com/es/>`_
 	
 **Agregar enlaces**
 """""""""""""""""""
@@ -309,6 +315,14 @@ La ruta del enlace corresponde a la que aparece en la barra de direcciones del n
 .. image:: img/upload-image.png
     :align: center
     :alt: Carga una imagen de perfil
+
+Te permite cargar la insignia de la institución, logotipo o imagen de vuestra organización.
+
+Si eres un profesional que ofrece servicios de formación o acreditación como :term:`freelance`, puedes incluir tu imagen corporativa o logo.
+
+¿No tienes logo?
+
+No pasa nada, existen múltiples aplicaciones web que te permiten diseñar tu logotipo de forma rápida y online como por ejemplo `www.freelogoservices.com <http://www.freelogoservices.com>`_
 	
 **Nombre completo**
 """""""""""""""""""
@@ -316,11 +330,15 @@ La ruta del enlace corresponde a la que aparece en la barra de direcciones del n
     :align: center
     :alt: Define tu nombre completo
 	
+Indica el nombre o departamento de la organización.
+	
 **Descripción corta**
 """""""""""""""""""""
 .. image:: img/short-description.png
     :align: center
     :alt: Define la descripción corta
+
+En este campo puedes indicar algun :term:`Eslogan` o :term:`Propuesta de valor` que te haga desmarcar para captar la atención de los alumnos.
 	
 **Descripción larga**
 """""""""""""""""""""
@@ -328,17 +346,27 @@ La ruta del enlace corresponde a la que aparece en la barra de direcciones del n
     :align: center
     :alt: Define la descripción larga
 
+En este campo puedes desarrollar de forma más completa vuestro catálogo de servicios y formación. Recuerda que el editor te permite incluir hipervínculos e :term:`iframe`	
+	
+	
 **Agregar video**
 """""""""""""""""
 .. image:: img/video.png
     :align: center
     :alt: Agregar video
+
+Esta funcionalidad te permitirá mostrar un vídeo de vuestra institución, servicios u oferta formativa.
+
+ * **Ingresando la URL del video** donde puedes colocar el enlace :term:`URL` completo de tu video si lo tienes alojado en las plataformas de `youtube`_ o `vimeo`_
+	.. note:: 	La URL del video corresponde a la dirección que aparece en la barra de direcciones de nuestro explorador cuando lo estamos visualizando.
+ * **Subiendo un archivo** que será en formato MP4, WEBM o MOV y de un tamaño no superior a 10 MB
+	.. tip:: 	Si dispones de un archivo de vídeo y quieres cambiar el formato o tamaño puedes utilizar como herramienta `Freemake Video Converter <http://www.freemake.com/es/>`_
 	
 	
 **Agregar enlaces**
 """""""""""""""""""
 
-Tu perfil podrá mostrar cualquier otro enlace a perfiles sociales (linkedin, twitter, facebook, etc.), blogs, noticias, web personal, etc.
+Tu perfil podrá mostrar cualquier otro enlace a perfiles sociales (linkedin, twitter, facebook, etc.), campus de formación, web corporativa, etc.
 
 .. image:: img/upload-url.png
     :align: center
@@ -348,12 +376,69 @@ Para ello sólo tendrás que escribir la ruta del enlace que quieres indicar en 
 
 La ruta del enlace corresponde a la que aparece en la barra de direcciones del navegador que empieza por http:// o https://.
 
-	.. tip:: 	Si el sistema no encuentra el icono para la red asociada, informa al correo `info@gowork.es <mailto:info@gowork.es>`_ y se encargarán de añadir el icono y actualizarlo en tu perfil.
-
+	.. tip:: 	Si el sistema no encuentra el icono para la red asociada, informa al correo `info@gowork.es <mailto:info@gowork.es>`_ y se encargarán de añadir el icono y actualizarlo en tu perfil. Si lo deseas podemos incluir el logotipo de vuestra organización para ayudaros a crear marca.
 
 
 Administrador de etiquetas
 --------------------------
+
+**Persona**
+^^^^^^^^^^^
+
+Competencias y habilidades
+""""""""""""""""""""""""""
+.. image:: img/management-skills-talent-person.png
+    :align: center
+    :alt: Administrador de etiquetas de competencias y habilidades de la persona
+
+Titulaciones
+""""""""""""
+.. image:: img/management-skills-training-person.png
+    :align: center
+    :alt: Administrador de etiquetas de formación
+
+
+
+Intereses
+"""""""""
+.. image:: img/management-skills-interest-person.png
+    :align: center
+    :alt: Administrador de etiquetas de interes de la persona
+
+
+**Empresa**
+^^^^^^^^^^^
+
+**Sector**
+""""""""""
+.. image:: img/management-skills-sector.png
+    :align: center
+    :alt: Administrador de etiquetas sector
+
+
+**Intereses**
+"""""""""""""
+.. image:: img/management-skills-interest.png
+    :align: center
+    :alt: Administrador de etiquetas de interes
+
+
+**Universidad**
+^^^^^^^^^^^^^^^
+
+**Sector**
+""""""""""
+.. image:: img/management-skills-sector.png
+    :align: center
+    :alt: Administrador de etiquetas sector
+
+**Intereses**
+"""""""""""""
+.. image:: img/management-skills-interest.png
+    :align: center
+    :alt: Administrador de etiquetas de interes
+
+ 
  
 Ver perfil
 ----------

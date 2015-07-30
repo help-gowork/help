@@ -4,6 +4,9 @@ Términos
 ..	glossary::
 	:sorted:
 	
+	freelance
+		Se denomina freelance (generalmente trabajador autónomo, por cuenta propia o trabajador independiente) a la persona cuya actividad consiste en realizar trabajos propios de su ocupación, oficio o profesión, de forma autónoma, para terceros que requieren sus servicios para tareas determinadas, que generalmente le abonan su retribución no en función del tiempo empleado sino del resultado obtenido, sin que las dos partes contraigan obligación de continuar la relación laboral más allá del encargo realizado. Otras veces pueden firmar contratos por obra o trabajo y cobrar por tiempo, sobre todo en el mundo de las tecnologías de la información.
+	
 	iframe
 		Es un elemento HTML que permite insertar o incrustar un documento HTML dentro de un documento HTML principal. Por ejemplo incrustar una fotografía 360º de Google de tu negocio.
 	
