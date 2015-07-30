@@ -25,7 +25,7 @@ A continuación ofrecemos algunas recomendaciones:
 
 Para pedir recomendaciones a tus contactos puedes hacerlo enviándoles un correo sencillo, atractivo y directo.
 
-O tambien puedes utilizar el correo base que se mostrará pulsando sobre `**Enviar recomendaciones** <mailto:?subject=Valida mis aptitudes&body=Hola, soy *|FNAME|*%0A%0AMe gustaría que validases las etiquetas de mi perfil %0A%0ASólo tendrás que registrate en GoWork.es, visitar mi perfil, pulsar sobre la competencia que quieras y escribir un comentario jun>`_
+O tambien puedes utilizar el correo base que se mostrará pulsando sobre `**Enviar recomendaciones** <mailto:?subject=Valida%20mis%20aptitudes&body=Hola,%20soy%20*|FNAME|*%0A%0AMe%20gustaría%20que%20validases%20las%20etiquetas%20de%20mi%20perfil%20%0A%0ASólo%20tendrás%20que%20registrate%20en%20GoWork.es,%20visitar%20mi%20perfil,%20pulsar%20sobre%20la%20competencia%20que%20quieras%20y%20escribir%20un%20comentario%20junto%20con%20su%20valoración.%0A%0Gracias.>`_
 
 	
 What comes back from the API?
