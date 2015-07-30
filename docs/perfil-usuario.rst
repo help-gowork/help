@@ -439,9 +439,9 @@ Sólo tendrás que escribirlas, el sistema te ofrecerá un listado de términos 
 
 Una vez definida debes pulsar el botón **añadir** para quedar fijada en tu perfil.
 
-Una vez fijada podrás editar, añadir nuevos enlaces o actulizar los existentes, incluir tus propios comentarios y ver los comentarios recibidos de otros usuarios (sea una :term:`Persona`, :term:`Empresa` o :term:`Universidade`)
+Una vez fijada podrás editar, añadir nuevos enlaces o actulizar los existentes, incluir tus propios comentarios y ver los comentarios recibidos de otros usuarios (sea una :term:`Persona`, :term:`Empresa` o :term:`Universidad`)
 
-Puedes ampliar más información sobre las posibilidades que te ofrece esta herramienta desde la sección de `funcionalidades <>`_
+Puedes ampliar más información sobre las posibilidades que te ofrece esta herramienta desde la sección de `funcionalidades <http://helpgowork.readthedocs.org/es/latest/modulos/#acreditacion-de-etiquetas>`_
 
 Intereses
 """""""""
@@ -498,7 +498,7 @@ Pulsando sobre el botón de ver perfil visualizaremos el aspecto que tiene nuest
 		:align: center
 		:alt: vista perfil público usuario registrado en gowork
  
-Para regresar a las opciones de mi perfil debo pulsar sobre el menú `Mi peril`_ que aparece en la parte superior derecha.
+Para regresar a las opciones de mi perfil debo pulsar sobre el menú `Mi perfil`_ que aparece en la parte superior derecha.
   
 De esta forma podrás diseñar la imagen o formato de tu perfil para lograr el máximo impacto posible.
  
